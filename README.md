@@ -1,2 +1,2 @@
 # studying-poo
-Pondo em prática alguns conceitos de Orietação à Objetos com Javascript.
+Pondo em prática alguns conceitos de Orientação à Objetos com Javascript.
