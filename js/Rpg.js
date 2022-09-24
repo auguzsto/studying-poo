@@ -57,7 +57,7 @@ class Paladin extends Classes {
 }
 
 function getItems(n) { //Search item from console.
-    const data = baseItems.Items[n];
+    const data = basedb.Items[n];
     const dataItems = new Items(data.name, data.type, data.level, data.description, data.rarity, data.attr, data.durability, data.duration, data.itemType);
     return dataItems;
 }
