@@ -7,8 +7,12 @@ let basedb = {
             "id": "1", "name": "Sword of King", "type": "Sword", "level": "18", "description": "King Arthas's First Sword", "rarity": "Common", "attr": "+2 Agility", "durability": "100", "duration": "None", "itemType": "Weapon"
         }, 
         {
-            "id": "2", "name": "Holt Frut", "type": "Food", "level": "34", "description": "Made by Vandora's portal guardians, regenerates 10% health and gives +20 strength", "rarity": "Rare", "attr": "+21 Stronger", "durability": "100", "duration": "30min", "itemType": "Food"
+            "id": "2", "name": "Holt Frut", "type": "Food", "level": "34", "description": "Made by Vandora's portal guardians, regenerates 60% health and gives +20 strength", "rarity": "Rare", "attr": "+21 Stronger", "durability": "100", "duration": "30min", "itemType": "Food"
         },
+        {
+            "id": "3", "name": "Banana Food", "type": "Food", "level": "1", "description": "You need to reinvigorate forces. Regenerates 15% health", "rarity": "Common", "attr": "", "durability": "100", "duration": "", "itemType": "Food"
+        },
+        
     ],
 
     "Classes": [
